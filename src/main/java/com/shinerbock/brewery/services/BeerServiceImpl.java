@@ -27,5 +27,6 @@ public class BeerServiceImpl implements BeerService{
             return "Failed to add new beer";
         }
     }
+
 }
 
